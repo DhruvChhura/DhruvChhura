@@ -16,6 +16,6 @@
 
 # <p align="left"> Find me here </p>
 
-  <a href="https://t.me/DhruvChhura </p>
+  <a href="https://t.me/DhruvChhura">
      <img align="left"| Telegram" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
   </a> 
