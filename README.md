@@ -1,4 +1,4 @@
-<p align="center"> <img src="dhruv.jpg" alt="me!"/></p>
+<p align="center"> <img src="dhruv1.jpg" alt="me!"/></p>
 
 # <p align="center">Hey World, I'm Dhruv. </p>
 ### <p align="center">Developer from India. <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p> </p>
